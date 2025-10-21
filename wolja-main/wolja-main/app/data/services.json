@@ -1,0 +1,55 @@
+{
+  "services": [
+    {
+      "id": "corporate-structuring",
+      "titleKey": "servicesData.corporateStructuring.title",
+      "descriptionKey": "servicesData.corporateStructuring.description",
+      "image": "/heroCards/pawns.svg",
+      "slug": "corporate-structuring",
+      "contentKey": "servicesData.corporateStructuring.content",
+      "caseTags": [
+        "Corporate Structuring"
+      ]
+    },
+    {
+      "id": "licensing",
+      "titleKey": "servicesData.licensing.title",
+      "descriptionKey": "servicesData.licensing.description",
+      "image": "/heroCards/contract.svg",
+      "slug": "licensing",
+      "contentKey": "servicesData.licensing.content"
+    },
+    {
+      "id": "it-support",
+      "titleKey": "servicesData.itSupport.title",
+      "descriptionKey": "servicesData.itSupport.description",
+      "image": "/heroCards/hacker.svg",
+      "slug": "it-support",
+      "contentKey": "servicesData.itSupport.content"
+    },
+    {
+      "id": "intellectual-property",
+      "titleKey": "servicesData.intellectualProperty.title",
+      "descriptionKey": "servicesData.intellectualProperty.description",
+      "image": "/heroCards/biometric.svg",
+      "slug": "intellectual-property",
+      "contentKey": "servicesData.intellectualProperty.content"
+    },
+    {
+      "id": "confidentiality-and-migration",
+      "titleKey": "servicesData.confidentialityMigration.title",
+      "descriptionKey": "servicesData.confidentialityMigration.description",
+      "image": "/heroCards/travel.svg",
+      "slug": "confidentiality-and-migration",
+      "contentKey": "servicesData.confidentialityMigration.content"
+    },
+    {
+      "id": "disputes-and-arbitration",
+      "titleKey": "servicesData.disputesArbitration.title",
+      "descriptionKey": "servicesData.disputesArbitration.description",
+      "image": "/heroCards/justice.svg",
+      "slug": "disputes-and-arbitration",
+      "contentKey": "servicesData.disputesArbitration.content"
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "header": {
+    "logo": "Wolja Digital",
+    "nav": {
+      "home": "Strona główna",
+      "services": "Usługi",
+      "team": "Zespół",
+      "cases": "Przypadki",
+      "blog": "Blog",
+      "about-us": "O nas",
+      "contact": "Kontakt"
+    },
+    "language": "Pol",
+    "search": {
+      "placeholder": "Szukaj przypadków...",
+      "noResults": "Nie znaleziono wyników",
+      "noResultsDescription": "Spróbuj dostosować zapytanie wyszukiwania",
+      "searchTitle": "Szukaj przypadków",
+      "searchDescription": "Wprowadź zapytanie, aby przeszukać nasze przypadki",
+      "foundInContent": "Znaleziono w treści:",
+      "resultsCount": "Znaleziono {{count}} {{count, plural, one {przypadek} few {przypadki} other {przypadków}}}"
+    }
+  },
+  "breadcrumb": {
+    "home": "Strona główna",
+    "services": "Usługi",
+    "projects": "Projekty",
+    "team": "Zespół",
+    "blog": "Blog",
+    "about-us": "O nas",
+    "contact": "Kontakt",
+    "cases": "Przypadki",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfUse": "Warunki użytkowania",
+    "cookiePolicy": "Polityka cookies",
+    "corporateStructuring": "Strukturyzacja korporacyjna"
+  },
+  "common": {
+    "learnMore": "Dowiedz się więcej"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Wolja Digital: Twój wewnętrzny zespół prawny",
+      "subtitle": "Siła prawna dla wizjonerów IT i technologii",
+      "cta": {
+        "primary": "Uzyskaj konsultację",
+        "secondary": "Nasze usługi"
+      }
+    },
+    "sections": {
+      "services": {
+        "title": "Nasze usługi",
+        "subtitle": "Kompleksowe rozwiązania prawne dostosowane do firm technologicznych i startupów",
+        "viewAll": "Zobacz wszystkie usługi"
+      },
+      "insights": {
+        "title": "Najnowsze spostrzeżenia",
+        "subtitle": "Bądź na bieżąco z naszymi eksperckimi analizami i aktualizacjami branżowymi",
+        "viewAll": "Zobacz wszystkie"
+      },
+      "projects": {
+        "title": "Przypadki",
+        "subtitle": "Odkryj, jak pomogliśmy firmom osiągnąć ich cele",
+        "viewAll": "Zobacz wszystkie"
+      }
+    },
+    "services": {
+      "corporate": {
+        "title": "Strukturyzacja korporacyjna i podatkowa",
+        "description": "Optymalna struktura biznesowa i projektowanie ram dla firm technologicznych i startupów."
+      },
+      "legal": {
+        "title": "Doradztwo prawne",
+        "description": "Kompleksowe doradztwo prawne dla przedsiębiorstw technologicznych i zgodność z przepisami."
+      },
+      "tax": {
+        "title": "Doradztwo podatkowe",
+        "description": "Strategiczne planowanie podatkowe i optymalizacja dla międzynarodowych operacji biznesowych."
+      },
+      "compliance": {
+        "title": "Usługi zgodności",
+        "description": "Zgodność z przepisami i zarządzanie ryzykiem dla firm technologicznych."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Nasze usługi",
+      "subtitle": "Kompleksowe rozwiązania prawne dla firm technologicznych i startupów"
+    },
+    "intro": {
+      "title": "Dlaczego wybrać Wolja Digital",
+      "description": "Specjalizujemy się w świadczeniu usług prawnych i strukturyzacji korporacyjnej dostosowanych specjalnie do firm technologicznych, startupów i przedsiębiorstw cyfrowych. Nasza ekspertyza obejmuje wiele jurysdykcji i środowisk regulacyjnych."
+    },
+    "advantages": {
+      "expertise": {
+        "title": "Ekspertyza technologiczna",
+        "description": "Głębokie zrozumienie modeli biznesowych technologii i branżowych wymagań prawnych."
+      },
+      "global": {
+        "title": "Globalny zasięg",
+        "description": "Ekspertyza wielojurysdykcyjna obejmująca ponad 30 krajów i środowisk regulacyjnych."
+      },
+      "efficiency": {
+        "title": "Efektywny proces",
+        "description": "Usprawnienie procesów i rozwiązania oparte na technologii dla szybszych rezultatów."
+      }
+    },
+    "grid": {
+      "title": "Nasze obszary usług"
+    },
+    "corporate": {
+      "title": "Strukturyzacja korporacyjna i podatkowa",
+      "description": "Optymalna struktura biznesowa i projektowanie ram dla firm technologicznych i startupów."
+    },
+    "legal": {
+      "title": "Doradztwo prawne",
+      "description": "Kompleksowe doradztwo prawne dla przedsiębiorstw technologicznych i zgodność z przepisami."
+    },
+    "tax": {
+      "title": "Doradztwo podatkowe",
+      "description": "Strategiczne planowanie podatkowe i optymalizacja dla międzynarodowych operacji biznesowych."
+    },
+    "compliance": {
+      "title": "Usługi zgodności",
+      "description": "Zgodność z przepisami i zarządzanie ryzykiem dla firm technologicznych."
+    },
+    "ip": {
+      "title": "Własność intelektualna",
+      "description": "Strategie ochrony IP i licencjonowania dla innowacji technologicznych."
+    },
+    "mergers": {
+      "title": "Doradztwo M&A",
+      "description": "Wsparcie fuzji i przejęć dla firm technologicznych."
+    },
+    "contact": {
+      "title": "Potrzebujesz eksperckiej porady prawnej?",
+      "subtitle": "Skontaktuj się z naszym zespołem, aby omówić swoje konkretne wymagania i uzyskać spersonalizowane rozwiązanie."
+    }
+  },
+  "service": {
+    "sections": {
+      "services": "Co oferujemy",
+      "advantages": "Nasze zalety",
+      "relatedProjects": "Powiązane projekty"
+    },
+    "contact": {
+      "title": "Zainteresowany tą usługą?",
+      "subtitle": "Skontaktuj się z naszymi ekspertami, aby dowiedzieć się więcej o tym, jak możemy pomóc Twojemu biznesowi."
+    }
+  },
+  "footer": {
+    "logo": "Wolja Digital",
+    "sections": {
+      "navigation": {
+        "title": "Nawigacja",
+        "links": {
+          "home": "Strona główna",
+          "services": "Usługi",
+          "about-us": "O nas",
+          "team": "Zespół",
+          "cases": "Przypadki",
+          "blog": "Blog",
+          "contact": "Kontakt"
+        }
+      },
+      "legal": {
+        "title": "Prawne",
+        "links": {
+          "privacy": "Polityka prywatności",
+          "terms": "Warunki użytkowania",
+          "cookies": "Polityka cookies"
+        }
+      },
+      "social": {
+        "title": "Social",
+        "links": {
+          "linkedin": "Linkedin",
+          "telegram": "Telegram",
+          "facebook": "Facebook"
+        }
+      }
+    },
+    "copyright": "© 2025 Wolja Digital - Wszelkie prawa zastrzeżone"
+  },
+  "team": {
+    "title": "Zespół",
+    "description": "Nasi prawnicy będą Twoimi niezawodnymi partnerami — zainteresowanymi wspólnymi wynikami i osiągnięciem celów. Otrzymali wykształcenie na europejskich uniwersytetach i mają ogromne doświadczenie ściśle związane ze sferą IT i technologii.",
+    "members": [
+      {
+        "id": "kamal-tserakhau",
+        "name": "Kamal Tserakhau",
+        "position": "Partner",
+        "experience": "Doświadczenie 10+ lat",
+        "photo": "/team/kamal.svg",
+        "education": "Magister, \"Własność intelektualna i nowe technologie\", Uniwersytet Jagielloński, Kraków, Magister prawa, Białoruski Uniwersytet Państwowy, Wydział Prawa",
+        "languages": "Angielski, Polski, Białoruski, Rosyjski",
+        "description": "Lider zespołu prawnego z rozległym doświadczeniem (od 2015 roku) wspierający firmy w wielu sektorach. Pracował z wydawcami, studiami gier i platformami online w przestrzeni IT i IP. Specjalizuje się w strukturyzacji korporacyjnych grup IT w Polsce, na Cyprze, w Estonii, Luksemburgu, USA, Wielkiej Brytanii i innych jurysdykcjach.",
+        "services": [
+          "Strukturyzacja korporacyjna i podatkowa",
+          "Wsparcie firm IT",
+          "Własność intelektualna",
+          "Rozwiązywanie sporów"
+        ],
+        "projects": 5
+      },
+      {
+        "id": "levan-pogosov",
+        "name": "Levan Pogosov",
+        "position": "Partner",
+        "experience": "Doświadczenie 10+ lat",
+        "photo": "/team/levan.jpg",
+        "education": "Magister prawa, Griffith College, Dublin (Irlandia)",
+        "languages": "Angielski, Gruziński, Ormiański, Rosyjski",
+        "description": "Starszy radca prawny z rozległym doświadczeniem (od 2017 roku) w jurysdykcjach WNP i Kaukazu. Pracuje nad projektami strukturyzacji firm technologicznych i zabezpieczania specjalnych statusów ekonomicznych w Gruzji, Serbii, Uzbekistanie i Armenii. Specjalizuje się w opracowywaniu strategii relokacji i wspieraniu firm w ramach międzynarodowych struktur regulacyjnych.",
+        "services": [
+          "Strukturyzacja korporacyjna i podatkowa",
+          "Regulacje i licencje",
+          "Sprawy prywatne i delikatne",
+          "Relokacja"
+        ],
+        "projects": 5
+      }
+    ],
+    "contact": {
+      "title": "Potrzebujesz wsparcia prawnego?",
+      "subtitle": "Odpowiadamy w najwygodniejszy dla Ciebie sposób (Email, komunikatory, rozmowy telefoniczne). Nasze doświadczenie pomoże Twojemu biznesowi szybko rozwinąć skrzydła."
+    },
+    "labels": {
+      "education": "Wykształcenie:",
+      "languages": "Języki:",
+      "projects": "Projekty",
+      "contactUs": "Skontaktuj się z nami"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Spostrzeżenia prawne i aktualizacje",
+      "subtitle": "Bądź na bieżąco z naszymi eksperckimi analizami i aktualizacjami branżowymi dla firm technologicznych"
+    },
+    "categories": {
+      "all": "Wszystkie posty",
+      "regulation": "Regulacje",
+      "tax": "Planowanie podatkowe",
+      "corporate": "Prawo korporacyjne",
+      "technology": "Technologia",
+      "compliance": "Zgodność"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Skontaktuj się z nami",
+      "subtitle": "Skontaktuj się z naszymi ekspertami prawnymi, aby omówić potrzeby swojego biznesu"
+    },
+    "form": {
+      "title": "Wyślij nam wiadomość",
+      "subtitle": "Wypełnij poniższy formularz, a skontaktujemy się z Tobą tak szybko, jak to możliwe.",
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "phone": "Telefon",
+      "company": "Firma",
+      "message": "Wiadomość",
+      "submit": "Wyślij wiadomość",
+      "sending": "Wysyłanie...",
+      "send": "Wyślij",
+      "success": "Dziękujemy! Twoja wiadomość została pomyślnie wysłana.",
+      "error": "Przepraszamy, wystąpił błąd podczas wysyłania wiadomości. Spróbuj ponownie."
+    },
+    "methods": {
+      "socialMedia": {
+        "title": "Media społecznościowe",
+        "description": "Śledź nas na Telegram i Linkedin",
+        "telegramUrl": "https://t.me/woljadigital",
+        "linkedinUrl": "https://www.linkedin.com/company/wolja-digital/"
+      },
+      "contact": {
+        "title": "",
+        "description": "Możesz napisać do nas na Telegram i WhatsApp - odpowiemy w ciągu dnia roboczego",
+        "telegramUrl": "https://t.me/wolja_digital",
+        "whatsappUrl": "https://wa.me/48662329559"
+      },
+      "email": {
+        "title": "Formularz kontaktowy email",
+        "description": "Zostaw prośbę, a oddzwonimy w ciągu dnia roboczego",
+        "linkText": "info@wolja.digital",
+        "linkUrl": "mailto:info@wolja.digital"
+      },
+      "phoneCall": {
+        "title": "Rozmowa telefoniczna",
+        "description": "Zostaw prośbę, a oddzwonimy w ciągu dnia roboczego",
+        "namePlaceholder": "Imię",
+        "phonePlaceholder": "Telefon",
+        "submitButton": "Oddzwoń do mnie"
+      }
+    }
+  },
+  "about-us": {
+    "title": "O nas",
+    "description": {
+      "intro": "Wolja Digital to pełnocyklowa agencja prawna.",
+      "mission": "Naszą misją jest danie Ci wolności od prawnej rutyny, abyś mógł skupić się na produkcie i rozwoju biznesu. Pracujemy jako zewnętrzny zespół prawny z podejściem wewnętrznym: zapewniamy szybkie konsultacje, głęboko rozumiemy specyfikę Twojego biznesu i oferujemy proaktywne wsparcie prawne na każdym etapie rozwoju.",
+      "focus": "Startupy IT i firmy technologiczne to nasza specjalizacja, ponieważ podzielamy Twoją wizję przyszłości. Naszym zadaniem jest nie tylko zagwarantowanie zgodności, ale stanie się prawnym kręgosłupem Twoich innowacji."
+    },
+    "statistics": {
+      "years": {
+        "value": "3",
+        "label": "lata praktyki firmy"
+      },
+      "debt": {
+        "value": "€13m",
+        "label": "to łączna kwota długu odzyskana z naszą pomocą"
+      },
+      "projects": {
+        "value": "130",
+        "label": "wspieranych projektów cyfrowych"
+      },
+      "arbitration": {
+        "value": "20+",
+        "label": "pozytywnych wyników międzynarodowych spraw arbitrażowych"
+      }
+    },
+    "map": {
+      "alt": "Mapa globalnej obecności pokazująca lokalizacje biur"
+    },
+    "offices": {
+      "warsaw": {
+        "alt": "Mapa lokalizacji biura w Warszawie"
+      },
+      "tbilisi": {
+        "alt": "Mapa lokalizacji biura w Tbilisi"
+      },
+      "limassol": {
+        "alt": "Mapa lokalizacji biura w Limassol"
+      }
+    }
+  },
+  "404": {
+    "title": "Ups....",
+    "subtitle": "Strona nie znaleziona",
+    "description1": "Ta strona nie istnieje lub została usunięta!",
+    "description2": "Sugerujemy powrót do strony głównej.",
+    "goHome": "Powrót do strony głównej",
+    "contact": "Skontaktuj się z nami"
+  },
+  "projects": {
+    "categories": {
+      "fintech": "FinTech",
+      "ecommerce": "E-commerce",
+      "saas": "SaaS",
+      "gaming": "Gaming"
+    }
+  },
+  "project": {
+    "details": {
+      "duration": "Czas trwania",
+      "location": "Lokalizacja",
+      "category": "Kategoria",
+      "team": "Zespół",
+      "members": "członków"
+    },
+    "sections": {
+      "overview": "Przegląd projektu",
+      "challenge": "Wyzwanie",
+      "solution": "Nasze rozwiązanie",
+      "results": "Wyniki",
+      "team": "Członkowie zespołu",
+      "relatedServices": "Powiązane usługi"
+    },
+    "contact": {
+      "title": "Podobne potrzeby projektu?",
+      "subtitle": "Skontaktuj się z nami, aby omówić, jak możemy pomóc w Twoich konkretnych wymaganiach."
+    }
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja:"
+  },
+  "terms": {
+    "title": "Warunki użytkowania",
+    "lastUpdated": "Ostatnia aktualizacja:"
+  },
+  "cookies": {
+    "title": "Polityka cookies",
+    "lastUpdated": "Ostatnia aktualizacja:"
+  },
+  "page": {
+    "title": "USŁUGI STRUKTURYZACJI KORPORACYJNEJ I PODATKOWEJ",
+    "description": "Pomagamy firmom technologicznym i startupom ustanowić optymalną strukturę biznesową i ramy. Projektujemy i realizujemy efektywną strukturę firmy i specjalne statusy, które są zgodne z Twoimi celami biznesowymi, zapewniając jednocześnie zgodność zależną od rodzaju działalności komercyjnej."
+  },
+  "cases": {
+    "hero": {
+      "title": "Przypadki"
+    },
+    "sections": {
+      "turnkeyBusiness": {
+        "title": "Turnkey biznes i podatki",
+        "description": "Kompleksowe rozwiązania tworzenia biznesu i optymalizacji podatkowej dla firm technologicznych i startupów. Obsługujemy wszystkie aspekty tworzenia biznesu, od początkowej rejestracji po bieżące planowanie podatkowe, zapewniając, że struktura Twojego biznesu jest efektywna i zgodna w wielu jurysdykcjach."
+      },
+      "licensingRegulations": {
+        "title": "Licencjonowanie i regulacje",
+        "description": "Nawiguj w złożonych środowiskach regulacyjnych dzięki naszej ekspertyzie w zabezpieczaniu niezbędnych licencji i zapewnianiu ciągłej zgodności. Pomagamy firmom technologicznym zrozumieć i spełnić wymagania regulacyjne w różnych sektorach i jurysdykcjach, minimalizując ryzyko i umożliwiając płynne działanie."
+      },
+      "itSupport": {
+        "title": "Wsparcie firm IT",
+        "description": "Specjalistyczne wsparcie prawne dostosowane do firm technologicznych, w tym licencjonowanie oprogramowania, zgodność z ochroną danych, strategie własności intelektualnej i regulacje usług cyfrowych. Nasz zespół rozumie unikalne wyzwania stojące przed firmami IT w dzisiejszym ewoluującym krajobrazie regulacyjnym."
+      },
+      "intellectualProperty": {
+        "title": "Własność intelektualna",
+        "description": "Kompleksowe strategie ochrony i komercjalizacji własności intelektualnej. Pomagamy zabezpieczyć patenty, znaki towarowe i prawa autorskie, opracowywać umowy licencyjne i tworzyć portfele IP, które wspierają Twoje cele biznesowe i chronią Twoje innowacje na globalnych rynkach."
+      },
+      "disputesArbitration": {
+        "title": "Spory i arbitraż",
+        "description": "Ekspertowe usługi rozwiązywania sporów, w tym spory handlowe, międzynarodowy arbitraż i alternatywne rozwiązywanie sporów. Nasz doświadczony zespół reprezentuje klientów w złożonych sporach handlowych, nieporozumieniach kontraktowych i konfliktach transgranicznych, koncentrując się na osiąganiu praktycznych rozwiązań biznesowych."
+      },
+      "confidentialityMigration": {
+        "title": "Sprawy prywatne i delikatne",
+        "description": "Bezpieczne usługi migracji biznesu i poufności dla firm przenoszących operacje lub rozszerzających działalność międzynarodowo. Zapewniamy płynne przejścia, zachowując jednocześnie surowe standardy poufności i chroniąc wrażliwe informacje biznesowe przez cały proces."
+      }
+    }
+  },
+  "servicesData": {
+    "corporateStructuring": {
+      "title": "Strukturyzacja korporacyjna i podatkowa",
+      "description": "Dowiedz się więcej",
+      "content": {
+        "hero": {
+          "title": "STRUKTURYZACJA KORPORACYJNA I PODATKOWA",
+          "subtitle": "Opracowujemy architekturę korporacyjną i podatkową dla firm technologicznych dostosowaną do modeli biznesowych, geografii operacyjnej i planów skalowania."
+        },
+        "sections": {
+          "jurisdictionalAnalysis": {
+            "title": "Analiza i wybór jurysdykcji",
+            "items": [
+              "Ocena efektywności podatkowej, środowiska regulacyjnego i międzynarodowych sieci traktatowych",
+              "Uwzględnienie czynników operacyjnych: dostęp do bankowości, systemy płatności, pula talentów",
+              "Projektowanie struktur wielojurysdykcyjnych w celu minimalizacji ryzyka"
+            ]
+          },
+          "companyRegistration": {
+            "title": "Rejestracja spółek w ponad 30 jurysdykcjach",
+            "regions": {
+              "europeanUnion": {
+                "title": "Unia Europejska, w tym:",
+                "countries": "Polska, Węgry, Estonia, Słowacja, Luksemburg, Czechy, Malta, Cypr, Irlandia, Holandia"
+              },
+              "caucasusCentralAsia": {
+                "title": "Kaukaz i Azja Środkowa:",
+                "countries": "Gruzja, Armenia, Uzbekistan, Kazachstan"
+              },
+              "otherJurisdictions": {
+                "title": "Inne kluczowe jurysdykcje:",
+                "countries": "Wielka Brytania, Delaware (USA), ZEA, Hongkong, Serbia"
+              }
+            }
+          },
+          "bankAccountOpening": {
+            "title": "Otwieranie rachunków bankowych",
+            "items": [
+              "Przygotowanie dokumentacji dla wymogów bankowych KYC",
+              "Wsparcie w procedurach otwierania rachunków",
+              "Budowa architektury płatniczej dla operacji międzynarodowych"
+            ]
+          },
+          "specialProgrammes": {
+            "title": "Specjalne programy dla firm IT",
+            "programmes": [
+              {
+                "name": "Status IT Park (Uzbekistan)",
+                "benefits": "0% CIT, 0% podatek od dywidend, 7,5% PIT"
+              },
+              {
+                "name": "Strefa Wirtualna (Gruzja)",
+                "benefits": "0% CIT od dochodów zagranicznych, 0% VAT"
+              },
+              {
+                "name": "Status Spółki Międzynarodowej (Gruzja)",
+                "benefits": "5% CIT, 0% podatek od dywidend"
+              },
+              {
+                "name": "Reżim IP Box (Polska, Węgry, inne)",
+                "benefits": "Preferencyjne opodatkowanie dochodów z IP"
+              },
+              {
+                "name": "Zachęty dla startupów i programy akceleracyjne",
+                "benefits": ""
+              }
+            ]
+          }
+        },
+        "cases": {
+          "title": "Powiązane sprawy",
+          "tags": [
+            "Corporate Structuring"
+          ]
+        },
+        "conclusion": "Nie tylko rejestrujemy spółki - tworzymy efektywne podatkowo struktury, które wytrzymują due diligence inwestorów i skalują się wraz z Twoim biznesem."
+      }
+    },
+    "licensing": {
+      "title": "Licencjonowanie i regulacje",
+      "description": "Dowiedz się więcej",
+      "content": {
+        "hero": {
+          "title": "LICENCJE I REGULACJE",
+          "subtitle": "Koordynujemy uzyskiwanie licencji i zapewniamy zgodność z przepisami w wysoko regulowanych sektorach."
+        },
+        "sections": {
+          "gamingLicenses": {
+            "title": "Licencje hazardowe",
+            "items": [
+              "Koordynacja wniosków o licencje hazardu online w kluczowych jurysdykcjach",
+              "Kontakt z organami regulacyjnymi (Malta Gaming Authority, Curaçao eGaming, itp.)",
+              "Bieżące wsparcie zgodności dla licencjobiorców"
+            ]
+          },
+          "paymentServiceProvider": {
+            "title": "Licencje dostawców usług płatniczych (PSP)",
+            "items": [
+              "Licencjonowanie dostawców płatności",
+              "Zgodność regulacyjna dla firm fintech"
+            ]
+          },
+          "cryptocurrencyLicenses": {
+            "title": "Licencje kryptowalutowe",
+            "items": [
+              "Licencjonowanie operacji kryptowalutowych",
+              "Rejestracja VASP, CASP"
+            ]
+          },
+          "amlKyc": {
+            "title": "AML/KYC",
+            "items": [
+              "Opracowanie polityk i procedur AML/KYC",
+              "Usługi oficera zgodności"
+            ]
+          }
+        },
+        "conclusion": "Pracujemy przez zweryfikowaną sieć lokalnych partnerów i zapewniamy nie tylko uzyskanie licencji, ale także długoterminową zgodność z wymogami regulacyjnymi."
+      }
+    },
+    "itSupport": {
+      "title": "Wsparcie firm IT",
+      "description": "Dowiedz się więcej",
+      "content": {
+        "hero": {
+          "title": "WSPARCIE PRAWNE FIRM IT",
+          "subtitle": "Kompleksowe wsparcie prawne dla firm technologicznych na wszystkich etapach rozwoju — od startupu do międzynarodowego skalowania"
+        },
+        "sections": {
+          "b2bContracts": {
+            "title": "Kontrakty B2B",
+            "description": "Sporządzamy i negocjujemy umowy handlowe zgodnie z prawem angielskim i innych jurysdykcji, obejmując pełne spektrum relacji biznesowych w technologii. Nasze doświadczenie obejmuje umowy rozwoju oprogramowania, kontrakty SaaS, główne umowy serwisowe, porozumienia agencyjne i dystrybucyjne oraz dokumentację outsourcingową."
+          },
+          "investmentAgreements": {
+            "title": "Umowy inwestycyjne",
+            "description": "Dla firm pozyskujących kapitał lub strukturyzujących własność przygotowujemy umowy akcjonariuszy, umowy kupna akcji, instrumenty SAFE i KISS, dokumentację inwestycyjną oraz umowy pożyczek zamiennych. Zajmujemy się także dokumentacją ochronną, w tym NDA, umowami o zakazie konkurencji i kontraktami cesji IP."
+          },
+          "gamedevSupport": {
+            "title": "Wsparcie GameDev",
+            "description": "Deweloperzy gier wymagają specjalistycznego wsparcia prawnego, które rozumie ekosystemy platform i dynamikę branży. Zapewniamy zgodność z politykami Apple App Store, Google Play Market i Steam, w tym wymogami oceny wiekowej. Nasza dokumentacja wydawnicza obejmuje umowy publikacji gier, porozumienia współpracy rozwojowej i struktury tantiem.\n\nPrzygotowujemy dokumenty skierowane do użytkowników dostosowane do kontekstów gamingowych — EULA, warunki użytkowania, polityki prywatności i polityki zakupów w grze. Gdy naśladowcy zagrażają Twojej grze, egzekwujemy Twoje prawa poprzez powiadomienia DMCA o usunięciu, skargi DSA i egzekwowanie znaków towarowych na platformach cyfrowych."
+          },
+          "privacyDataProtection": {
+            "title": "Prywatność i ochrona danych",
+            "description": "Zgodność z RODO wymaga ustrukturyzowanych procesów wewnętrznych i odpowiedniej dokumentacji. Przeprowadzamy oceny wpływu na ochronę danych, opracowujemy polityki prywatności i cookies, strukturyzujemy wewnętrzne procedury przetwarzania danych i zapewniamy wskazówki dotyczące wymogów legalnego przetwarzania. Przygotowujemy także umowy przetwarzania danych dla relacji z dostawcami.\n\nDla produktów opartych na AI wspieramy zgodność z AI Act poprzez oceny ryzyka, wymogi dokumentacyjne i zgłoszenia regulacyjne dla systemów wysokiego ryzyka. Zajmujemy się także wymogami specyficznymi dla jurysdykcji, w tym COPPA dla aplikacji dziecięcych i kalifornijskim prawem prywatności.\n\nMówimy językiem produktów i rozumiemy stosy technologiczne, więc nasze dokumenty chronią Twoje interesy bez tworzenia barier operacyjnych dla zespołów deweloperskich."
+          }
+        },
+        "cases": {
+          "title": "Powiązane sprawy",
+          "tags": [
+            "IP Protection"
+          ]
+        }
+      }
+    },
+    "intellectualProperty": {
+      "title": "Własność intelektualna",
+      "description": "Dowiedz się więcej",
+      "content": {
+        "hero": {
+          "title": "WŁASNOŚĆ INTELEKTUALNA",
+          "subtitle": "Kompleksowa ochrona aktywów IP dla firm technologicznych na wszystkich etapach rozwoju."
+        },
+        "sections": {
+          "ipDueDiligence": {
+            "title": "Due Diligence IP i weryfikacja",
+            "description": "Przeprowadzamy przeglądy due diligence własności intelektualnej dla inwestycji i przejęć oraz dostarczamy opinie weryfikacyjne IP do oceny potencjalnych ryzyk naruszenia przed uruchomieniem produktów. Nasza analiza identyfikuje ryzyko IP na etapie rozwoju i weryfikuje własność oraz łańcuch tytułu dla aktywów IP, zapewniając czyste podstawy IP dla Twojego biznesu."
+          },
+          "ipRightsRegistration": {
+            "title": "Rejestracja praw IP",
+            "description": "Zajmujemy się wnioskami o znaki towarowe i rejestracjami w kluczowych jurysdykcjach, w tym Unii Europejskiej, Wielkiej Brytanii, Stanach Zjednoczonych, Gruzji, Armenii i innych. Dla ochrony międzynarodowej koordynujemy wnioski Protokołu Madryckiego, które usprawniają pokrycie wielojurysdykcyjne. Zarządzamy także rejestracjami praw autorskich i doradzimy w zakresie kompleksowych strategii ochrony praw autorskich."
+          },
+          "ipAgreements": {
+            "title": "Umowy IP",
+            "description": "Przygotowujemy pełne spektrum dokumentacji IP dla firm technologicznych: umowy cesji do przenoszenia własności IP, umowy licencyjne obejmujące wyłączne, niewyłączne i sublicencyjne porozumienia oraz dokumenty skierowane do użytkowników jak EULA i warunki użytkowania dla oprogramowania i platform. Strukturyzujemy także porozumienia współpracy rozwojowej IP i umowy work-for-hire, aby zapewnić odpowiednie przydzielenie praw od początku."
+          },
+          "domainDisputes": {
+            "title": "Spory domenowe",
+            "description": "Reprezentujemy klientów w sporach o nazwy domen w ramach procedur UDRP i URS, odzyskując nazwy domen od cybersquatterów i rozwiązując konflikty znaków towarowych. Koordynujemy także spory domenowe w sądach, gdy procedury administracyjne są niewystarczające."
+          },
+          "copycatCombating": {
+            "title": "Walka z naśladowcami",
+            "description": "Gdy naruszenie występuje na platformach cyfrowych, podejmujemy działania poprzez powiadomienia DMCA o usunięciu, skargi DSA dla jurysdykcji UE i bezpośrednie egzekwowanie z posiadaczami platform. Mamy bogate doświadczenie w blokowaniu aplikacji naśladowczych w App Store, Google Play i Steam, a także usuwaniu naruszających treści na cyfrowych rynkach."
+          },
+          "aiIpStrategy": {
+            "title": "AI i strategia IP",
+            "description": "Dla produktów opartych na AI doradzimy w zakresie własności treści generowanych przez AI, opracowujemy polityki używania narzędzi AI w Twoim biznesie, strukturyzujemy strategię IP dla produktów AI i negocjujemy porozumienia licencyjne danych treningowych."
+          }
+        },
+        "cases": {
+          "title": "Powiązane sprawy",
+          "tags": [
+            "IP Protection"
+          ]
+        },
+        "conclusion": "Nie tylko rejestrujemy prawa — budujemy proaktywne strategie egzekwowania, które zapobiegają naruszeniom i zapewniają szybkie odpowiedzi, gdy występują. W ciągu ostatnich trzech lat zablokowaliśmy ponad 100 aplikacji i domen naśladowczych dla naszych klientów."
+      }
+    },
+    "confidentialityMigration": {
+      "title": "Sprawy prywatne i delikatne",
+      "description": "Dowiedz się więcej",
+      "content": {
+        "hero": {
+          "title": "SPRAWY PRYWATNE I DELIKATNE",
+          "subtitle": "Poufne wsparcie prawne dla założycieli i właścicieli biznesu w sprawach wymagających szczególnej dyskrecji."
+        },
+        "sections": {
+          "migrationTaxPlanning": {
+            "title": "Migracja i planowanie podatkowe",
+            "description": "Koordynujemy wnioski o pozwolenia na pobyt i programy obywatelstwa w wielu jurysdykcjach. W Unii Europejskiej wspieramy wnioski w Polsce, Węgrzech (w tym przyspieszoną program National Card z 3-letnią ścieżką do stałego pobytu), Francji (status Visiteur ze zdalnym odnowieniem), Portugalii, Hiszpanii, Słowacji i Szwajcarii.\n\nNasze doświadczenie rozciąga się na uzyskiwanie obywatelstwa w Gruzji (w tym przyspieszoną naturalizację), Armenii, Vanuatu, Turcji i strategie naturalizacji UE poprzez ścieżki rezydencji.\n\nPlanowanie podatkowe osobiste jest zintegrowane przez cały proces migracji. Doradzimy w zakresie optymalizacji rezydencji podatkowej, opracowujemy efektywne podatkowo strategie relokacji, zajmujemy się transgranicznymi kwestiami opodatkowania osobistego i koordynujemy z Twoją strukturyzacją korporacyjną, aby zapewnić zgodność między planowaniem podatkowym osobistym i biznesowym."
+          },
+          "personalAssetManagement": {
+            "title": "Zarządzanie aktywami osobistymi",
+            "description": "Dla zamożnych przedsiębiorców technologicznych zapewniamy wskazówki dotyczące międzynarodowej strukturyzacji aktywów, efektywnych podatkowo rozwiązań zarządzania majątkiem i transgranicznego planowania finansowego.\n\nW stosownych przypadkach doradzimy w zakresie struktur trustowych i planowania spadkowego dla aktywów międzynarodowych. Ta praca jest ściśle koordynowana z Twoją strukturą korporacyjną, aby zapewnić zgodność planowania podatkowego osobistego i korporacyjnego, rozważań strategii wyjścia i optymalizacji polityki dywidendowej."
+          },
+          "reputationProtection": {
+            "title": "Ochrona reputacji",
+            "description": "Zajmujemy się kwestiami reputacji online, w tym usuwaniem zniesławiających treści z mediów społecznościowych, zarządzaniem wynikami wyszukiwania Google i wnioskami o prawo do bycia zapomnianym zgodnie z RODO.\n\nDla klientów dotkniętych listami World-Check zajmujemy się korektą nieścisłości, procedurami naprawczymi dla fałszywych dopasowań i przygotowaniem dokumentacji wspierającej. W razie potrzeby koordynujemy komunikację kryzysową i wspieramy postępowania o zniesławienie."
+          },
+          "confidentiality": {
+            "title": "Poufność",
+            "description": "Wszystkie sprawy w tej sekcji są obsługiwane z maksymalną dyskrecją. Komunikacja odbywa się przez szyfrowane kanały, dokumenty są przechowywane z wzmocnionymi środkami bezpieczeństwa, a strony trzecie są angażowane tylko za wyraźną zgodą klienta."
+          }
+        },
+        "cases": {
+          "title": "Powiązane sprawy",
+          "tags": [
+            "Private & Delicate Matters"
+          ]
+        }
+      }
+    },
+    "disputesArbitration": {
+      "title": "Spory i arbitraż",
+      "description": "Dowiedz się więcej",
+      "content": {
+        "hero": {
+          "title": "ROZWIĄZYWANIE SPORÓW",
+          "subtitle": "Reprezentujemy interesy firm technologicznych w transgranicznych sporach handlowych, koncentrując się na konfliktach specyficznych dla IT."
+        },
+        "sections": {
+          "internationalCommercialArbitration": {
+            "title": "Międzynarodowy arbitraż handlowy",
+            "description": "Mamy bogate doświadczenie w reprezentowaniu klientów w wiodących instytucjach arbitrażowych, w tym ICC, SCC, HKIAC, SIAC, CIETAC, VIAC, LCIA i ICAC, z dodatkowym doświadczeniem w arbitrażu ICSID i postępowaniach PCA.\n\nDorobek: 20+ udanych spraw arbitrażowych w UE, WNP i Azji"
+          },
+          "typesOfDisputes": {
+            "title": "Rodzaje sporów",
+            "description": "Nasza praktyka arbitrażowa koncentruje się na sporach sektora technologicznego: konflikty rozwoju oprogramowania obejmujące zmiany zakresu, opóźnienia, akceptację jakości i własność IP; spory inwestycyjne, w tym konwersje SAFE/KISS, konflikty akcjonariuszy i kwestie wyceny; spory publikacji gier dotyczące tantiem, zobowiązań marketingowych i ograniczeń terytorialnych; oraz spory kontraktów handlowych obejmujące umowy dostaw, licencjonowanie i dystrybucję."
+          },
+          "litigationInForeignCourts": {
+            "title": "Postępowania sądowe w sądach zagranicznych",
+            "description": "Koordynujemy strategie postępowań sądowych w zagranicznych jurysdykcjach, współpracując z lokalnymi prawnikami w celu reprezentowania interesów klientów w sporach handlowych w różnych systemach prawnych. Przygotowujemy także ekspertowe opinie prawne dotyczące prawa białoruskiego, gruzińskiego i rosyjskiego dla zagranicznych postępowań sądowych."
+          },
+          "debtRecovery": {
+            "title": "Windykacja długów",
+            "description": "Zapewniamy kompleksowe usługi windykacji długów w UE, Gruzji i krajach WNP poprzez negocjacje przedsądowe, windykację opartą na arbitrażu, koordynację postępowań sądowych i strategie transgranicznego egzekwowania."
+          },
+          "ourApproach": {
+            "title": "Nasze podejście",
+            "description": "Postrzegamy arbitraż i postępowania sądowe jako ostateczność. Priorytet nadajemy wczesnemu rozstrzyganiu sporów poprzez negocjacje. Jednak jeśli rozwiązanie konfliktu okaże się niemożliwe, prowadzimy sprawę do pomyślnego rezultatu z pełnym zaangażowaniem w interesy klienta.\n\n13 milionów euro — łączny dług odzyskany dla klientów w 2024 roku"
+          }
+        },
+        "cases": {
+          "title": "Powiązane sprawy",
+          "tags": [
+            "International Commercial Arbitration"
+          ]
+        }
+      }
+    }
+  }
+}

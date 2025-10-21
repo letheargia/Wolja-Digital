@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Design system variables from Figma */
+  --white: #ffffff;
+  --gray: #2d3748;
+  --main: #84cc16;
+  --gray-2: #4a5568;
+  --stroke: rgba(0, 0, 0, 0.15);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Custom design system colors */
+  --color-gray: var(--gray);
+  --color-main: var(--main);
+  --color-gray-2: var(--gray-2);
+  --color-stroke: var(--stroke);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Inter, -apple-system, Roboto, Helvetica, sans-serif;
+}
+
+/* Dark overlay for service cards to improve text readability */
+.service-card-overlay::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0) 100%);
+  pointer-events: none;
+  z-index: 1;
+}
