@@ -4,6 +4,7 @@ import "./globals.css";
 import { I18nProvider } from "./lib/i18n";
 import { ToastProvider } from "./lib/toast";
 import FloatingSocialButtons from "./components/FloatingSocialButtons";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -42,6 +43,7 @@ export default function RootLayout({
           <I18nProvider>
             {children}
             <FloatingSocialButtons />
+            <Analytics />
           </I18nProvider>
         </ToastProvider>
       </body>
